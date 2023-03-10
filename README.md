@@ -6,7 +6,7 @@ Mise à jour de mon bot discord de musique vers `discord.js V14` avec ajout des 
 
 ## Élements requis
 
-1. Créer un bot sur le [Discord Developer Portal](https://discordapp.com/developers/applications) et récupérer le token et ajouter le sur votre serveur.
+1. Créer un bot sur le [Discord Developer Portal](https://discordapp.com/developers/applications) puis récupérer le token et ajouter le sur votre serveur.
 
 2. Télécharger et installer [nodejs](https://nodejs.org/en/download/) version 18.15 LTS
 
